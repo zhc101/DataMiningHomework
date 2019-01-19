@@ -1,1 +1,0 @@
-Êı¾İ¼¯ÃèÊö£ºhttp://archive.ics.uci.edu/ml/datasets/seeds
