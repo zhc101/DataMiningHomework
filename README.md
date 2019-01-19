@@ -1,2 +1,2 @@
 # DataMiningHomework
-对三个数据集的聚类任务
+Use 3 cluster methods for 3 different datesets. 
